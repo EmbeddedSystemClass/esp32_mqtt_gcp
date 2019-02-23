@@ -20,9 +20,9 @@ make menuconfig
 
 * Set ssid and password for the board to connect to AP.
 
-Note how to create a PEM certificate for iot.eclipse.org:
+Note how to create a PEM certificate for mqtt.googleapis.com:
 ```
-openssl s_client -showcerts -connect iot.eclipse.org:8883 </dev/null 2>/dev/null|openssl x509 -outform PEM >iot_eclipse_org.pem
+openssl s_client -showcerts -connect mqtt.googleapis.com:8883 </dev/null 2>/dev/null|openssl x509 -outform PEM >mqtt.googleapis.com.pem
 ```
 
 ### Build and Flash
