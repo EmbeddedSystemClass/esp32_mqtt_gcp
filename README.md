@@ -1,8 +1,6 @@
 # ESP-MQTT SSL Sample application
 
-(See the README.md file in the upper level 'examples' directory for more information about examples.)
-
-This example connects to the broker iot.eclipse.org using ssl transport and as a demonstration subscribes/unsubscribes and send a message on certain topic.
+This example connects to the Google Cloud Platform - IOT Core MQTT Broker using ssl transport and as a demonstration subscribes/unsubscribes and send a message on certain topic.
 
 It uses ESP-MQTT library which implements mqtt client to connect to mqtt broker.
 
