@@ -1,0 +1,1 @@
+cmd='/home/gyoung/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/183.5429.37/bin/cmake/linux/bin/cmake;-DSDKCONFIG=/home/gyoung/src/esp32_mqtt/ssl/sdkconfig;-DIDF_PATH=/home/gyoung/src/esp-idf;-DSECURE_BOOT_SIGNING_KEY=/home/gyoung/src/esp32_mqtt/ssl;-GCodeBlocks - Unix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
