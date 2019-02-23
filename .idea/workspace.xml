@@ -1,17 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="mqtt_ssl" targetName="idf_component_mbedtls_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_ethernet" />
+      <config projectName="mqtt_ssl" targetName="idf_component_asio" />
+      <config projectName="mqtt_ssl" targetName="idf_component_smartconfig_ack" />
+      <config projectName="mqtt_ssl" targetName="idf_component_wifi_provisioning_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_driver_sections_info" />
+      <config projectName="mqtt_ssl" targetName="mbedtls" />
+      <config projectName="mqtt_ssl" targetName="esp32_linker_script" />
+      <config projectName="mqtt_ssl" targetName="lib" />
+      <config projectName="mqtt_ssl" targetName="idf_component_libsodium" />
+      <config projectName="mqtt_ssl" targetName="mqtt_ssl.elf" />
+      <config projectName="mqtt_ssl" targetName="idf_component_json" />
+      <config projectName="mqtt_ssl" targetName="idf_component_heap" />
+      <config projectName="mqtt_ssl" targetName="idf_component_mdns_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_lwip" />
+      <config projectName="mqtt_ssl" targetName="idf_component_ethernet_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_cxx_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp-tls_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_nghttp_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_app_trace_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_wpa_supplicant_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_cxx" />
+      <config projectName="mqtt_ssl" targetName="idf_component_vfs_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_spiffs_sections_info" />
+      <config projectName="mqtt_ssl" targetName="mconf-idf" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_https_server" />
+      <config projectName="mqtt_ssl" targetName="idf_component_unity" />
+      <config projectName="mqtt_ssl" targetName="read_otadata" />
+      <config projectName="mqtt_ssl" targetName="idf_component_smartconfig_ack_sections_info" />
+      <config projectName="mqtt_ssl" targetName="bootloader-flash" />
+      <config projectName="mqtt_ssl" targetName="idf_component_protocomm_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_soc" />
+      <config projectName="mqtt_ssl" targetName="idf_component_protobuf-c_sections_info" />
+      <config projectName="mqtt_ssl" targetName="ldgen_esp32.common.ld_script" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_https_ota_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_freertos" />
+      <config projectName="mqtt_ssl" targetName="idf_component_log" />
+      <config projectName="mqtt_ssl" targetName="idf_component_tcpip_adapter" />
+      <config projectName="mqtt_ssl" targetName="idf_component_mqtt" />
+      <config projectName="mqtt_ssl" targetName="idf_component_expat" />
+      <config projectName="mqtt_ssl" targetName="idf_component_bootloader_support_sections_info" />
+      <config projectName="mqtt_ssl" targetName="size-files" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp32_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_spi_flash_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_app_trace" />
+      <config projectName="mqtt_ssl" targetName="idf_component_libsodium_sections_info" />
+      <config projectName="mqtt_ssl" targetName="erase_otadata" />
+      <config projectName="mqtt_ssl" targetName="idf_component_nghttp" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_adc_cal_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_expat_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp-tls" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_http_server_sections_info" />
+      <config projectName="mqtt_ssl" targetName="partition_table" />
+      <config projectName="mqtt_ssl" targetName="idf_component_coap_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_newlib" />
+      <config projectName="mqtt_ssl" targetName="idf_component_wear_levelling_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_app_update" />
+      <config projectName="mqtt_ssl" targetName="idf_component_ulp_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_http_server" />
+      <config projectName="mqtt_ssl" targetName="idf_component_freemodbus" />
+      <config projectName="mqtt_ssl" targetName="idf_component_lwip_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_event_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_https_ota" />
+      <config projectName="mqtt_ssl" targetName="mbedx509" />
+      <config projectName="mqtt_ssl" targetName="idf_component_mbedtls" />
+      <config projectName="mqtt_ssl" targetName="idf_component_unity_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_mqtt_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_fatfs_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_micro-ecc_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_soc_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_driver" />
+      <config projectName="mqtt_ssl" targetName="idf_component_openssl" />
+      <config projectName="mqtt_ssl" targetName="idf_component_freemodbus_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_app_update_sections_info" />
+      <config projectName="mqtt_ssl" targetName="mbedcrypto" />
+      <config projectName="mqtt_ssl" targetName="flash" />
+      <config projectName="mqtt_ssl" targetName="apidoc" />
+      <config projectName="mqtt_ssl" targetName="idf_component_newlib_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp32" />
+      <config projectName="mqtt_ssl" targetName="idf_component_protobuf-c" />
+      <config projectName="mqtt_ssl" targetName="dummy_main_src" />
+      <config projectName="mqtt_ssl" targetName="idf_component_pthread_sections_info" />
+      <config projectName="mqtt_ssl" targetName="bootloader" />
+      <config projectName="mqtt_ssl" targetName="idf_component_console_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_openssl_sections_info" />
+      <config projectName="mqtt_ssl" targetName="menuconfig" />
+      <config projectName="mqtt_ssl" targetName="idf_component_wifi_provisioning" />
+      <config projectName="mqtt_ssl" targetName="idf_component_spiffs" />
+      <config projectName="mqtt_ssl" targetName="idf_component_main_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_nvs_flash" />
+      <config projectName="mqtt_ssl" targetName="idf_component_log_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_heap_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_ringbuf" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_adc_cal" />
+      <config projectName="mqtt_ssl" targetName="idf_component_mdns" />
+      <config projectName="mqtt_ssl" targetName="size" />
+      <config projectName="mqtt_ssl" targetName="size-components" />
+      <config projectName="mqtt_ssl" targetName="idf_component_vfs" />
+      <config projectName="mqtt_ssl" targetName="idf_component_tcp_transport" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_https_server_sections_info" />
+      <config projectName="mqtt_ssl" targetName="ldgen_section_infos" />
+      <config projectName="mqtt_ssl" targetName="idf_component_ulp" />
+      <config projectName="mqtt_ssl" targetName="idf_component_jsmn" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_event" />
+      <config projectName="mqtt_ssl" targetName="idf_component_sdmmc_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_wpa_supplicant" />
+      <config projectName="mqtt_ssl" targetName="confserver" />
+      <config projectName="mqtt_ssl" targetName="ldgen" />
+      <config projectName="mqtt_ssl" targetName="idf_component_fatfs" />
+      <config projectName="mqtt_ssl" targetName="idf_component_json_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_asio_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_freertos_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_xtensa-debug-module_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_main" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_http_client" />
+      <config projectName="mqtt_ssl" targetName="idf_component_console" />
+      <config projectName="mqtt_ssl" targetName="idf_component_micro-ecc" />
+      <config projectName="mqtt_ssl" targetName="idf_component_pthread" />
+      <config projectName="mqtt_ssl" targetName="idf_component_spi_flash" />
+      <config projectName="mqtt_ssl" targetName="idf_component_bootloader_support" />
+      <config projectName="mqtt_ssl" targetName="idf_component_wear_levelling" />
+      <config projectName="mqtt_ssl" targetName="idf_component_xtensa-debug-module" />
+      <config projectName="mqtt_ssl" targetName="idf_component_tcp_transport_sections_info" />
+      <config projectName="mqtt_ssl" targetName="app" />
+      <config projectName="mqtt_ssl" targetName="app-flash" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_http_client_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_sdmmc" />
+      <config projectName="mqtt_ssl" targetName="idf_component_protocomm" />
+      <config projectName="mqtt_ssl" targetName="idf_component_tcpip_adapter_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_jsmn_sections_info" />
+      <config projectName="mqtt_ssl" targetName="idf_component_nvs_flash_sections_info" />
+      <config projectName="mqtt_ssl" targetName="gen_secure_boot_signing_key" />
+      <config projectName="mqtt_ssl" targetName="idf_component_coap" />
+      <config projectName="mqtt_ssl" targetName="idf_component_esp_ringbuf_sections_info" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85c7036c-e7f5-495b-879a-16609b1d1600" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/esp-idf/CMakeFiles/git-data/grabRef.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/esp-idf/CMakeFiles/git-data/grabRef.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/esp-idf/CMakeFiles/git-data/head-ref" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/esp-idf/CMakeFiles/git-data/head-ref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/esp-idf/app_update/CMakeFiles/idf_component_app_update.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/esp-idf/app_update/CMakeFiles/idf_component_app_update.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/esp-idf/app_update/CMakeFiles/idf_component_app_update.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/esp-idf/app_update/CMakeFiles/idf_component_app_update.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/esp-idf/esp-idf.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/esp-idf/esp-idf.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/esp-idf/mbedtls/mbedtls/mbed TLS.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/esp-idf/mbedtls/mbedtls/mbed TLS.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/mqtt_ssl.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/mqtt_ssl.cbp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/app_main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="152" column="21" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1366" />
     <option name="height" value="743" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Application.mqtt_ssl.elf">
     <configuration name="apidoc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mqtt_ssl" TARGET_NAME="apidoc" CONFIG_NAME="Debug">
@@ -820,5 +1017,52 @@
       <item itemvalue="Application.idf_component_xtensa-debug-module" />
       <item itemvalue="Application.idf_component_xtensa-debug-module_sections_info" />
     </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85c7036c-e7f5-495b-879a-16609b1d1600" name="Default Changelist" comment="" />
+      <created>1550929984713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550929984713</updated>
+      <workItem from="1550929986022" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="189000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="743" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main/app_main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="152" column="21" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

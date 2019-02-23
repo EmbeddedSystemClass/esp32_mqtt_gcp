@@ -73,15 +73,15 @@ esp-idf/app_update/CMakeFiles/idf_component_app_update.dir/esp_ota_ops.c.s: cmak
 esp-idf/app_update/CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.obj: esp-idf/app_update/CMakeFiles/idf_component_app_update.dir/flags.make
 esp-idf/app_update/CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.obj: /home/gyoung/src/esp-idf/components/app_update/esp_app_desc.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gyoung/src/esp32_mqtt/ssl/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object esp-idf/app_update/CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.obj"
-	cd /home/gyoung/src/esp32_mqtt/ssl/cmake-build-debug/esp-idf/app_update && /home/gyoung/esp/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc $(C_DEFINES) -D PROJECT_NAME=\"mqtt_ssl\" -DPROJECT_VER=\"1\" $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.obj   -c /home/gyoung/src/esp-idf/components/app_update/esp_app_desc.c
+	cd /home/gyoung/src/esp32_mqtt/ssl/cmake-build-debug/esp-idf/app_update && /home/gyoung/esp/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc $(C_DEFINES) -D PROJECT_NAME=\"mqtt_ssl\" -DPROJECT_VER=\"4c71377\" $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.obj   -c /home/gyoung/src/esp-idf/components/app_update/esp_app_desc.c
 
 esp-idf/app_update/CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.i"
-	cd /home/gyoung/src/esp32_mqtt/ssl/cmake-build-debug/esp-idf/app_update && /home/gyoung/esp/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc $(C_DEFINES) -D PROJECT_NAME=\"mqtt_ssl\" -DPROJECT_VER=\"1\" $(C_INCLUDES) $(C_FLAGS) -E /home/gyoung/src/esp-idf/components/app_update/esp_app_desc.c > CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.i
+	cd /home/gyoung/src/esp32_mqtt/ssl/cmake-build-debug/esp-idf/app_update && /home/gyoung/esp/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc $(C_DEFINES) -D PROJECT_NAME=\"mqtt_ssl\" -DPROJECT_VER=\"4c71377\" $(C_INCLUDES) $(C_FLAGS) -E /home/gyoung/src/esp-idf/components/app_update/esp_app_desc.c > CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.i
 
 esp-idf/app_update/CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.s"
-	cd /home/gyoung/src/esp32_mqtt/ssl/cmake-build-debug/esp-idf/app_update && /home/gyoung/esp/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc $(C_DEFINES) -D PROJECT_NAME=\"mqtt_ssl\" -DPROJECT_VER=\"1\" $(C_INCLUDES) $(C_FLAGS) -S /home/gyoung/src/esp-idf/components/app_update/esp_app_desc.c -o CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.s
+	cd /home/gyoung/src/esp32_mqtt/ssl/cmake-build-debug/esp-idf/app_update && /home/gyoung/esp/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc $(C_DEFINES) -D PROJECT_NAME=\"mqtt_ssl\" -DPROJECT_VER=\"4c71377\" $(C_INCLUDES) $(C_FLAGS) -S /home/gyoung/src/esp-idf/components/app_update/esp_app_desc.c -o CMakeFiles/idf_component_app_update.dir/esp_app_desc.c.s
 
 # Object files for target idf_component_app_update
 idf_component_app_update_OBJECTS = \
